@@ -18,3 +18,4 @@ The list includes both free APIs, and those which you have to pay to use - 💰
  - 💰 [Saxo Bank OpenAPI](https://www.developer.saxo/) - This API provides access to Saxo Bank's trading engine, which includes streaming price feeds.
  - [EventSim](https://github.com/viirya/eventsim) - Program that generates event data for a fake music web site (similar to Spotify).
  - 💰 [ShadowTraffic](https://shadowtraffic.io/) - ShadowTraffic provides free and paid editions of a developer tool for generating synthetic streaming data. Mostly useful for stream processing data.
+ - [TikTool Live](https://tik.tools/docs) - Real-time TikTok LIVE stream events (chat, gifts, viewers, battles) via WebSocket. Free tier: 50 req/day. `wss://api.tik.tools?uniqueId=USERNAME&apiKey=KEY`
