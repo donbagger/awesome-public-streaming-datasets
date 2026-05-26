@@ -20,3 +20,4 @@ The list includes both free APIs, and those which you have to pay to use - 💰
  - [EventSim](https://github.com/viirya/eventsim) - Program that generates event data for a fake music web site (similar to Spotify).
  - 💰 [ShadowTraffic](https://shadowtraffic.io/) - ShadowTraffic provides free and paid editions of a developer tool for generating synthetic streaming data. Mostly useful for stream processing data.
  - [TikTool Live](https://tik.tools/docs) - Real-time TikTok LIVE stream events (chat, gifts, viewers, battles) via WebSocket. Free tier: 50 req/day. 
+ - [Helium MCP](https://heliumtrades.com/mcp-page/) - Free REST + MCP API combining ML-derived options pricing (fair value, prob_ITM, Greeks) with structured news intelligence (3.2M+ articles, 31-dimension bias scoring). 10 endpoints, JSON in/out, 50 free queries per IP. [Source](https://github.com/connerlambden/helium-mcp).
